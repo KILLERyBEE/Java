@@ -21,11 +21,6 @@ class Multiple extends Base1
     }
 } 
 
-
-    
-
-
-
 public class MultipleInheritance {
     public static void main(String[] args) {
         Multiple ob = new Multiple();
